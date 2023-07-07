@@ -3,7 +3,6 @@ This Todo Application is a task management system that allows users to keep trac
 
 ## Technologies Used
 1. Spring boot
-2. spring security
-   
+2. spring security   
    
 
